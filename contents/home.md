@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![naima2002](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Naima2002)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a PhD in Computer Science at Boston University. I am being advised by Professor Vasiliki Kalavri in the Complex Analytics and Scalable Processing (CASP) Lab.
 
 #### Email
-sli[at]cumt.edu.cn
+anaima@bu.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD, Computer Science, Boston University, 2023—2028\
+BS, Computer Science, Lahore University of Management Sciences (LUMS), Pakistan, 2019—2023
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Stream processing for ML workloads
 
