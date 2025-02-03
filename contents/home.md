@@ -1,6 +1,6 @@
 
 
-[![naima2002](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Naima2002)
+[![naima2002](https://img.shields.io/badge/naima2002-github-blue?logo=github)](https://github.com/Naima2002)
 
 I am currently pursuing a PhD in Computer Science at Boston University. I am being advised by Professor Vasiliki Kalavri in the Complex Analytics and Scalable Processing (CASP) Lab.
 
