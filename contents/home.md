@@ -5,7 +5,7 @@
 I am currently pursuing a PhD in Computer Science at Boston University. I am being advised by Professor Vasiliki Kalavri in the Complex Analytics and Scalable Processing (CASP) Lab.
 
 #### Email
-anaima (at) bu.edu
+anaima [at] bu [dot] edu
 
 #### Education
 PhD, Computer Science, Boston University, 2023—2028\

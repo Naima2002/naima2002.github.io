@@ -1,2 +1,3 @@
-;; - Dean's Fellowship, Boston University
-;; - Dean's Honor Roll, LUMS
+- Best Paper Award, DaMoN '24 (International Workshop on Data Management on New Hardware)  
+- Dean's Fellowship, Boston University  
+- Dean's Honor Roll, LUMS  

@@ -1,5 +1,4 @@
-;; - Yuhang Song, Po Hao Chen, Yuchen Lu, <strong>Naima Abrar</strong>, and Vasiliki Kalavri (2024). In situ neighborhood sampling for large-scale GNN training. <strong>DaMoN '24: International Workshop on Data Management on New Hardware</strong>. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3662010.3663443)
-## Publications  
+
 - **Naima Abrar**, Vasiliki Kalavri (2025).  
   *Bridging GNN Inference and Dataflow Stream Processing: Challenges and Opportunities.*  
   **SIGMOD/GRADES-NDA '25: International Workshop on Graph Data Management Experiences and Systems**.  
@@ -14,9 +13,4 @@
 
 ---
 
-## Awards  
-
-- Best Paper Award, DaMoN '24 (International Workshop on Data Management on New Hardware)  
-- Dean's Fellowship, Boston University  
-- Dean's Honor Roll, LUMS  
 
