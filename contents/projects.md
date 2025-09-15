@@ -1,5 +1,3 @@
-## Research Interests / Projects  
-
 **Streaming GNN Inference**  
 - Built one of the first real-time GNN inference pipelines on Apache Flink, integrating RocksDB, Kafka, and TorchServe; sustained 2,100+ queries/sec with <300 ms latency and 3–4× throughput gains over DGL/PyG.  
 - Currently extending this into a disaggregated streaming system with a declarative API for event-driven GNN pipelines (fraud detection, recommendations, product classification).  
