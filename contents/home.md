@@ -26,8 +26,8 @@ BS, Computer Science, Lahore University of Management Sciences (LUMS), Pakistan,
 - Validated correctness and scalability with <10 ms latency and 175 ops/sec under concurrent load.  
 
 **Data Carving for Scientific Reproducibility (SRI International)**  
-- Developed ABCD (Access-Based Carving of Data) to carve HDF5 datasets via system-call and library-level interposition.  
-- Reduced container storage by up to 97% while ensuring reproducibility, validated on NASA MODIS and synthetic HDF5 benchmarks.  
+- Worked with Dr. Ashish Gehani on container debloating for data-intensive applications by carving HDF5 files through system call and I/O library interposition, storing only accessed subsets while maintaining reproducibility.
+- Reduced container storage by up to 97%, validated on NASA MODIS and synthetic HDF5 benchmarks.  
 
 **JavaScript Unbundling (UC Davis & Virginia Tech)**  
 - Detected bundled JavaScript that mixes tracking with essential functionality, where existing blockers fail.  
